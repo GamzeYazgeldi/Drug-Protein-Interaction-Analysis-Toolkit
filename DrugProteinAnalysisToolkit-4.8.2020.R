@@ -61,7 +61,6 @@ write.csv2(result_pathogenbased, file="Pathogen Based Drug Analysis Result.csv")
 
 
 #####################################################################################################################
-# STUDY PART II: DRUG-PROTEIN INTERACTIONS NETWORK ANALYSIS
 # TODO: Compare drug targets and non-drug targets by topological parameters analysis.
 
 # INPUT FILES: HIV_GA.
